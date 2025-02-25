@@ -1,0 +1,5 @@
+# Shortlinks for the joppes.nl domain, rules are processed top to bottom
+# File format:
+# /FromPath ToPath
+
+/maria https://www.youtube.com/watch?v=7A3CeYt9qn8
